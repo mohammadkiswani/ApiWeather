@@ -1,0 +1,6 @@
+framework module Pods_ApiWeather {
+  umbrella header "Pods-ApiWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
